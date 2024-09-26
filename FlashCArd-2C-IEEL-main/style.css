@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+    display: flex;
+    margin: 15px;
+}
+.javascript, .css{
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
